@@ -243,6 +243,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [gollum](https://github.com/trivago/gollum) - A n:m message multiplexer written in Go
 
 ## Monitoring
 *Monitoring software.*
