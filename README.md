@@ -343,6 +343,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Queuing libraries*
 
 * [ZeroMQ](http://zeromq.org/) -  High-performance asynchronous messaging library.
+* [mangos](https://github.com/go-mangos/mangos) - pure Go implementation of the nanomsg/SP protocols.
 
 ## RDBMS
 *Relational DBMS.*
